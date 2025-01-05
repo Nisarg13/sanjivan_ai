@@ -1,0 +1,11 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+faiss-cpu
+llama-index
+llama-index-experimental
+pyvis
+matplotlib
