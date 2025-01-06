@@ -1,7 +1,3 @@
-### Updated README for Your Repository
-
----
-
 # **Titanic Dataset Q&A Chatbot**
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sanjivanai.streamlit.app/)
