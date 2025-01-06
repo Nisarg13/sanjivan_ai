@@ -17,8 +17,8 @@ The **Titanic Dataset Q&A** app is a Streamlit-based interactive application tha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/titanic-qna-app.git
-   cd titanic-qna-app
+   https://github.com/Nisarg13/sanjivan_ai.git
+   cd sanjivan_ai
    ```
 
 2. Set up a virtual environment:
@@ -45,7 +45,7 @@ The **Titanic Dataset Q&A** app is a Streamlit-based interactive application tha
 
 1. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run app3.py
    ```
 
 2. Open the app in your web browser at `http://localhost:8501`.
